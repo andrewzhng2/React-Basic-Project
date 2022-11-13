@@ -1,2 +1,2 @@
 # React-Basic-Project
- Leaning how to build a basic project
+ Learning how to build a basic project from scratch, instead of create react app
